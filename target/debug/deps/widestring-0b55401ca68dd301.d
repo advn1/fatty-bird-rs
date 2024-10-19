@@ -1,0 +1,11 @@
+F:\rust-games\game-rs\my_game\target\debug\deps\libwidestring-0b55401ca68dd301.rmeta: C:\Users\EROSHA\.cargo\registry\src\index.crates.io-6f17d22bba15001f\widestring-0.4.3\src\lib.rs C:\Users\EROSHA\.cargo\registry\src\index.crates.io-6f17d22bba15001f\widestring-0.4.3\src\platform\mod.rs C:\Users\EROSHA\.cargo\registry\src\index.crates.io-6f17d22bba15001f\widestring-0.4.3\src\platform\windows.rs C:\Users\EROSHA\.cargo\registry\src\index.crates.io-6f17d22bba15001f\widestring-0.4.3\src\ucstr.rs C:\Users\EROSHA\.cargo\registry\src\index.crates.io-6f17d22bba15001f\widestring-0.4.3\src\ucstring.rs C:\Users\EROSHA\.cargo\registry\src\index.crates.io-6f17d22bba15001f\widestring-0.4.3\src\ustr.rs C:\Users\EROSHA\.cargo\registry\src\index.crates.io-6f17d22bba15001f\widestring-0.4.3\src\ustring.rs
+
+F:\rust-games\game-rs\my_game\target\debug\deps\widestring-0b55401ca68dd301.d: C:\Users\EROSHA\.cargo\registry\src\index.crates.io-6f17d22bba15001f\widestring-0.4.3\src\lib.rs C:\Users\EROSHA\.cargo\registry\src\index.crates.io-6f17d22bba15001f\widestring-0.4.3\src\platform\mod.rs C:\Users\EROSHA\.cargo\registry\src\index.crates.io-6f17d22bba15001f\widestring-0.4.3\src\platform\windows.rs C:\Users\EROSHA\.cargo\registry\src\index.crates.io-6f17d22bba15001f\widestring-0.4.3\src\ucstr.rs C:\Users\EROSHA\.cargo\registry\src\index.crates.io-6f17d22bba15001f\widestring-0.4.3\src\ucstring.rs C:\Users\EROSHA\.cargo\registry\src\index.crates.io-6f17d22bba15001f\widestring-0.4.3\src\ustr.rs C:\Users\EROSHA\.cargo\registry\src\index.crates.io-6f17d22bba15001f\widestring-0.4.3\src\ustring.rs
+
+C:\Users\EROSHA\.cargo\registry\src\index.crates.io-6f17d22bba15001f\widestring-0.4.3\src\lib.rs:
+C:\Users\EROSHA\.cargo\registry\src\index.crates.io-6f17d22bba15001f\widestring-0.4.3\src\platform\mod.rs:
+C:\Users\EROSHA\.cargo\registry\src\index.crates.io-6f17d22bba15001f\widestring-0.4.3\src\platform\windows.rs:
+C:\Users\EROSHA\.cargo\registry\src\index.crates.io-6f17d22bba15001f\widestring-0.4.3\src\ucstr.rs:
+C:\Users\EROSHA\.cargo\registry\src\index.crates.io-6f17d22bba15001f\widestring-0.4.3\src\ucstring.rs:
+C:\Users\EROSHA\.cargo\registry\src\index.crates.io-6f17d22bba15001f\widestring-0.4.3\src\ustr.rs:
+C:\Users\EROSHA\.cargo\registry\src\index.crates.io-6f17d22bba15001f\widestring-0.4.3\src\ustring.rs:

@@ -1,0 +1,11 @@
+F:\rust-games\game-rs\my_game\target\x86_64-pc-windows-gnu\release\deps\libecolor-a11e6ea5d486a93e.rmeta: C:\Users\EROSHA\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.21.0\src\lib.rs C:\Users\EROSHA\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.21.0\src\color32.rs C:\Users\EROSHA\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.21.0\src\hsva_gamma.rs C:\Users\EROSHA\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.21.0\src\hsva.rs C:\Users\EROSHA\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.21.0\src\rgba.rs
+
+F:\rust-games\game-rs\my_game\target\x86_64-pc-windows-gnu\release\deps\libecolor-a11e6ea5d486a93e.rlib: C:\Users\EROSHA\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.21.0\src\lib.rs C:\Users\EROSHA\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.21.0\src\color32.rs C:\Users\EROSHA\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.21.0\src\hsva_gamma.rs C:\Users\EROSHA\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.21.0\src\hsva.rs C:\Users\EROSHA\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.21.0\src\rgba.rs
+
+F:\rust-games\game-rs\my_game\target\x86_64-pc-windows-gnu\release\deps\ecolor-a11e6ea5d486a93e.d: C:\Users\EROSHA\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.21.0\src\lib.rs C:\Users\EROSHA\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.21.0\src\color32.rs C:\Users\EROSHA\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.21.0\src\hsva_gamma.rs C:\Users\EROSHA\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.21.0\src\hsva.rs C:\Users\EROSHA\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.21.0\src\rgba.rs
+
+C:\Users\EROSHA\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.21.0\src\lib.rs:
+C:\Users\EROSHA\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.21.0\src\color32.rs:
+C:\Users\EROSHA\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.21.0\src\hsva_gamma.rs:
+C:\Users\EROSHA\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.21.0\src\hsva.rs:
+C:\Users\EROSHA\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.21.0\src\rgba.rs:
